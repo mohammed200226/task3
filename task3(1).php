@@ -18,9 +18,9 @@
 
 <body>
     <nav>
-        <a href="task3(6).php">Home</a>|
-        <a href="task3(3).php">about</a>|
-        <a href="task3(4).php">contact</a>
+        <a href="task3(5).php">Home</a>|
+        <a href="task3(2).php">about</a>|
+        <a href="task3(3).php">contact</a>
     </nav>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.min.js"></script>
